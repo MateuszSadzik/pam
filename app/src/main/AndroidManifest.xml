@@ -53,7 +53,8 @@
         </activity>
         <activity
             android:name=".activities.list.ReviewsListActivity"
-            android:label="@string/list_reviews">
+            android:label="@string/list_reviews"
+            >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".activities.HomeActivity" />
